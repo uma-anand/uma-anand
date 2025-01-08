@@ -1,5 +1,4 @@
-### hi, i'm uma 👋  
----
+# hi, i'm uma 👋  
 
 Essentially,
 - 🍎 I'm an undergraduate student at the **Georgia Institute of Technology**.
