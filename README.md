@@ -12,7 +12,7 @@ Additionally,
 - ⚡ **Fun fact:** I’m the leader of Georgia Tech's improv troupe, [Let's Try This!](https://www.letstrythis.org/)  
 - 📫 **How to reach me:** [in/uma-anand](https://linkedin.com/in/uma-anand)  
 
-Finally.
+
 <!--
 **uma-anand/uma-anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
