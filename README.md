@@ -7,8 +7,8 @@ Essentially,
 - 💼 I’m currently an **Associate Director of Engineering** at [Bits of Good](https://bitsofgood.org/), a chapter of [Hack4Impact](https://hack4impact.org/), a 501(c)(3) non-profit.  
 
 Additionally,
-- 🤵 **Previous Experience:** Amazon | Lockheed Martin
-- ⚡ **Fun fact:** I’m the leader of Georgia Tech's improv troupe, [Let's Try This!](https://www.letstrythis.org/)  
+- 🤵 **Previous Experience:** Meta | Amazon
+- ⚡ **Fun fact:** I’ve read 70/[100 books to read before you die](https://www.goodreads.com/list/show/137197.100_Books_to_Read_Before_You_Die_The_Ultimate_List)
 - 📫 **How to reach me:** [in/uma-anand](https://linkedin.com/in/uma-anand)  
 
 
