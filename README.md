@@ -1,7 +1,7 @@
 # hi, i'm uma 👋  
 
 Essentially,
-- 🍎 I'm an undergraduate student at the **Georgia Institute of Technology**.
+- 🍎 I'm a Masters student at the **Georgia Institute of Technology**.
 - 🖥️ I’m a **computer science** major with concentrations in **Systems & Architecture** and **Networking & Information Security.**  
 - 🔭 I’m experienced in **full stack development**, particularly in **web development.**  
 - 💼 I’m currently an **Associate Director of Engineering** at [Bits of Good](https://bitsofgood.org/), a chapter of [Hack4Impact](https://hack4impact.org/), a 501(c)(3) non-profit.  
